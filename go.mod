@@ -1,10 +1,10 @@
-module github.com/bluenviron/gohlslib
+module github.com/harik13/gohlslib
 
 go 1.20
 
 require (
 	github.com/asticode/go-astits v1.13.0
-	github.com/bluenviron/mediacommon v1.12.2
+	github.com/harik13/mediacommon v1.12.2-5
 	github.com/stretchr/testify v1.9.0
 )
 

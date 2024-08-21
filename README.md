@@ -1,10 +1,10 @@
 # gohlslib
 
-[![Test](https://github.com/bluenviron/gohlslib/workflows/test/badge.svg)](https://github.com/bluenviron/gohlslib/actions?query=workflow:test)
-[![Lint](https://github.com/bluenviron/gohlslib/workflows/lint/badge.svg)](https://github.com/bluenviron/gohlslib/actions?query=workflow:lint)
-[![Go Report Card](https://goreportcard.com/badge/github.com/bluenviron/gohlslib)](https://goreportcard.com/report/github.com/bluenviron/gohlslib)
-[![CodeCov](https://codecov.io/gh/bluenviron/gohlslib/branch/main/graph/badge.svg)](https://app.codecov.io/gh/bluenviron/gohlslib/branch/main)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/bluenviron/gohlslib)](https://pkg.go.dev/github.com/bluenviron/gohlslib#pkg-index)
+[![Test](https://github.com/harik13/gohlslib/workflows/test/badge.svg)](https://github.com/harik13/gohlslib/actions?query=workflow:test)
+[![Lint](https://github.com/harik13/gohlslib/workflows/lint/badge.svg)](https://github.com/harik13/gohlslib/actions?query=workflow:lint)
+[![Go Report Card](https://goreportcard.com/badge/github.com/harik13/gohlslib)](https://goreportcard.com/report/github.com/harik13/gohlslib)
+[![CodeCov](https://codecov.io/gh/harik13/gohlslib/branch/main/graph/badge.svg)](https://app.codecov.io/gh/harik13/gohlslib/branch/main)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/harik13/gohlslib)](https://pkg.go.dev/github.com/harik13/gohlslib#pkg-index)
 
 HLS client and muxer library for the Go programming language, written for [MediaMTX](https://github.com/bluenviron/mediamtx).
 
@@ -48,7 +48,7 @@ Features:
 
 ## API Documentation
 
-[Click to open the API Documentation](https://pkg.go.dev/github.com/bluenviron/gohlslib#pkg-index)
+[Click to open the API Documentation](https://pkg.go.dev/github.com/harik13/gohlslib#pkg-index)
 
 ## Specifications
 
@@ -58,11 +58,11 @@ Features:
 |[RFC8216, HLS](https://datatracker.ietf.org/doc/html/rfc8216)|protocol|
 |[HLS v2](https://datatracker.ietf.org/doc/html/draft-pantos-hls-rfc8216bis)|protocol|
 |[HTTP Live Streaming by Apple](https://developer.apple.com/documentation/http-live-streaming)|protocol|
-|[Codec specifications](https://github.com/bluenviron/mediacommon#specifications)|codecs|
+|[Codec specifications](https://github.com/harik13/mediacommon#specifications)|codecs|
 |[Golang project layout](https://github.com/golang-standards/project-layout)|project layout|
 
 ## Related projects
 
 * [MediaMTX](https://github.com/bluenviron/mediamtx)
 * [gortsplib](https://github.com/bluenviron/gortsplib)
-* [mediacommon](https://github.com/bluenviron/mediacommon)
+* [mediacommon](https://github.com/harik13/mediacommon)

@@ -12,11 +12,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg4audio"
-	"github.com/bluenviron/mediacommon/pkg/formats/fmp4"
+	"github.com/harik13/mediacommon/pkg/codecs/mpeg4audio"
+	"github.com/harik13/mediacommon/pkg/formats/fmp4"
 	"github.com/stretchr/testify/require"
 
-	"github.com/bluenviron/gohlslib/pkg/codecs"
+	"github.com/harik13/gohlslib/pkg/codecs"
 )
 
 var testTime = time.Date(2010, 0o1, 0o1, 0o1, 0o1, 0o1, 0, time.UTC)

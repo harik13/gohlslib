@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bluenviron/mediacommon/pkg/codecs/h264"
-	"github.com/bluenviron/mediacommon/pkg/codecs/h265"
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg4audio"
-	"github.com/bluenviron/mediacommon/pkg/codecs/opus"
-	"github.com/bluenviron/mediacommon/pkg/formats/fmp4"
+	"github.com/harik13/mediacommon/pkg/codecs/h264"
+	"github.com/harik13/mediacommon/pkg/codecs/h265"
+	"github.com/harik13/mediacommon/pkg/codecs/mpeg4audio"
+	"github.com/harik13/mediacommon/pkg/codecs/opus"
+	"github.com/harik13/mediacommon/pkg/formats/fmp4"
 
-	"github.com/bluenviron/gohlslib/pkg/codecs"
-	"github.com/bluenviron/gohlslib/pkg/storage"
+	"github.com/harik13/gohlslib/pkg/codecs"
+	"github.com/harik13/gohlslib/pkg/storage"
 )
 
 const (

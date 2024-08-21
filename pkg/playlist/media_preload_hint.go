@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/bluenviron/gohlslib/pkg/playlist/primitives"
+	"github.com/harik13/gohlslib/pkg/playlist/primitives"
 )
 
 // MediaPreloadHint sia EXT-X-PRELOAD-HINT tag.

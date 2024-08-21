@@ -6,9 +6,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/bluenviron/gohlslib/pkg/storage"
+	"github.com/harik13/gohlslib/pkg/storage"
 
-	"github.com/bluenviron/mediacommon/pkg/formats/mpegts"
+	"github.com/harik13/mediacommon/pkg/formats/mpegts"
 )
 
 func durationGoToMPEGTS(v time.Duration) int64 {

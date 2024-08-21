@@ -3,10 +3,10 @@ package codecparams
 import (
 	"testing"
 
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg4audio"
+	"github.com/harik13/mediacommon/pkg/codecs/mpeg4audio"
 	"github.com/stretchr/testify/require"
 
-	"github.com/bluenviron/gohlslib/pkg/codecs"
+	"github.com/harik13/gohlslib/pkg/codecs"
 )
 
 func TestMarshal(t *testing.T) {

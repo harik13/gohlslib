@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/bluenviron/gohlslib/pkg/playlist"
+	"github.com/harik13/gohlslib/pkg/playlist"
 )
 
 func checkSupport(codecs []string) bool {

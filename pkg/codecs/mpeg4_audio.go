@@ -1,7 +1,7 @@
 package codecs
 
 import (
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg4audio"
+	"github.com/harik13/mediacommon/pkg/codecs/mpeg4audio"
 )
 
 // MPEG4Audio is a MPEG-4 Audio codec.

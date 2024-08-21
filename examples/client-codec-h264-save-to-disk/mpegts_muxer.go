@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/bluenviron/mediacommon/pkg/codecs/h264"
-	"github.com/bluenviron/mediacommon/pkg/formats/mpegts"
+	"github.com/harik13/mediacommon/pkg/codecs/h264"
+	"github.com/harik13/mediacommon/pkg/formats/mpegts"
 )
 
 func durationGoToMPEGTS(v time.Duration) int64 {

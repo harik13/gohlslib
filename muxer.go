@@ -8,13 +8,13 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/bluenviron/mediacommon/pkg/codecs/av1"
-	"github.com/bluenviron/mediacommon/pkg/codecs/h264"
-	"github.com/bluenviron/mediacommon/pkg/codecs/h265"
-	"github.com/bluenviron/mediacommon/pkg/codecs/vp9"
+	"github.com/harik13/mediacommon/pkg/codecs/av1"
+	"github.com/harik13/mediacommon/pkg/codecs/h264"
+	"github.com/harik13/mediacommon/pkg/codecs/h265"
+	"github.com/harik13/mediacommon/pkg/codecs/vp9"
 
-	"github.com/bluenviron/gohlslib/pkg/codecs"
-	"github.com/bluenviron/gohlslib/pkg/storage"
+	"github.com/harik13/gohlslib/pkg/codecs"
+	"github.com/harik13/gohlslib/pkg/storage"
 )
 
 // a prefix is needed to prevent usage of cached segments

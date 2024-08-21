@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bluenviron/gohlslib/pkg/storage"
-	"github.com/bluenviron/mediacommon/pkg/formats/fmp4"
+	"github.com/harik13/gohlslib/pkg/storage"
+	"github.com/harik13/mediacommon/pkg/formats/fmp4"
 )
 
 func partName(prefix string, id uint64) string {

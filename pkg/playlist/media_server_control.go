@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bluenviron/gohlslib/pkg/playlist/primitives"
+	"github.com/harik13/gohlslib/pkg/playlist/primitives"
 )
 
 // MediaServerControl is a EXT-X-SERVER-CONTROL tag.

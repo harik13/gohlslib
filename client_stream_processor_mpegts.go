@@ -10,9 +10,9 @@ import (
 
 	"github.com/asticode/go-astits"
 
-	"github.com/bluenviron/mediacommon/pkg/formats/mpegts"
+	"github.com/harik13/mediacommon/pkg/formats/mpegts"
 
-	"github.com/bluenviron/gohlslib/pkg/codecs"
+	"github.com/harik13/gohlslib/pkg/codecs"
 )
 
 func mpegtsPickLeadingTrack(mpegtsTracks []*mpegts.Track) int {

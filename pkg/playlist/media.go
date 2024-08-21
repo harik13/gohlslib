@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bluenviron/gohlslib/pkg/playlist/primitives"
+	"github.com/harik13/gohlslib/pkg/playlist/primitives"
 )
 
 const (

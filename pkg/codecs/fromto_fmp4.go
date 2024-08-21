@@ -1,7 +1,7 @@
 package codecs
 
 import (
-	"github.com/bluenviron/mediacommon/pkg/formats/fmp4"
+	"github.com/harik13/mediacommon/pkg/formats/fmp4"
 )
 
 // FromFMP4 imports a codec from fMP4.
